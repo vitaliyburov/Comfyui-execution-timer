@@ -2,7 +2,7 @@
 
 A high-precision execution timer node with binary melody bell sound notifications for ComfyUI workflows.
 
-https://github.com/vitaliyburov/Comfyui-execution-timer/Capture_Timer.PNG
+https://github.com/vitaliyburov/Comfyui-execution-timer/blob/main/Capture_Timer.PNG
 
 ## Features
 - **Live Canvas Timer**: Starts automatically from `00:00:00` on Queue Prompt execution, displaying real-time execution duration.
