@@ -2,6 +2,8 @@
 
 A high-precision execution timer node with binary melody bell sound notifications for ComfyUI workflows.
 
+Capture_Timer.PNG
+
 ## Features
 - **Live Canvas Timer**: Starts automatically from `00:00:00` on Queue Prompt execution, displaying real-time execution duration.
 - **Binary Melody Bell Chime**: Plays a metallic bell sound chime when render finishes, synthesized directly from a binary text string (e.g., ASCII binary for `BELL`).
